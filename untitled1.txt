@@ -1,0 +1,4 @@
+eno,ename,salary,gender
+1,'ram',40000,'M'
+2,'shyam',50000,'M'
+3,'johnsi',60000,'F'
